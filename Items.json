@@ -1,0 +1,19 @@
+{
+    "Inventory": { 
+        "Weapons": [
+        {
+            "name": "a long blade",
+            "damage": 10
+        }
+    ],
+           
+        "Potions": [
+        {
+            "name": "red potion",
+            "effect": "healing",
+            "heal": 50
+        }
+        
+    ]
+}
+}
