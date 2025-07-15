@@ -1,0 +1,6 @@
+order_id,product_name,category,unit_price,quantity,order_date
+1,Laptop,Electronics,1000,2,2025-07-10
+2,Mouse,Electronics,20,5,2025-07-11
+3,Desk,Furniture,,3,2025-07-12
+4,Keyboard,Electronics,50,1,2025-07-12
+5,Chair,Furniture,150,2,2025-07-12
